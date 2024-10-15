@@ -1,0 +1,95 @@
+/* *
+{
+    margin: 0;
+    top:0;
+    
+} */
+
+.main_container
+{
+   
+    /* margin-top: 6rem; */
+   
+    width: 27%;
+    margin:auto;
+    /* padding: 2rem; */
+    border: 2px solid black;
+    /* height: auto; */
+    /* background: url(news-paper-img.png);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+}
+
+.container1
+{
+    /* margin-top: 4rem; */
+    width: 100%;
+    /* height: 30rem; */
+    text-align: center;
+
+}
+img
+{
+    width: 100%;
+    height: 500px;
+   
+  
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+.container2
+{
+    /* margin: 1rem; */
+    margin-top: -2rem; 
+    height: 30%;
+    /* background-color: lightcyan; */
+    /* height: 10rem; */
+    background-color:rgb(252, 249, 245);
+    padding: 1rem;
+    /* border-radius:  10px; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#p2
+{
+    font-size: 1.2rem;
+    margin-top: -0.5rem;
+    color: gray;
+}
+#p3
+{
+    font-size: 0.9rem;
+    margin-top: -1rem;
+    color: gray;
+}
+
+#p1
+
+{
+    font-size: 1.5rem;
+    color: rgb(29, 71, 162);
+    font-weight: bold;
+    margin-top: 3rem;
+}
+
+#btn1
+{
+    background-color: rgba(237, 239, 241, 0.819);
+    color: rgb(15, 9, 9);
+    border: 0.1px solid black;
+    border-radius: 3px;
+    font-size: 1rem;
+}
+#btn2
+{
+    background-color: rgb(82, 201, 231);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-size: 1rem;
+}
+

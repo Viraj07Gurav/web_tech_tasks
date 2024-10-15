@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main
+{
+    margin: auto;
+    width: 22%;
+    height: 600px;
+    border:2px solid orange;
+
+    background: url(Blue\ Simple\ Traditional\ Happy\ Dussehra\ Temple\ Instagram\ Story\ .png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#head
+{
+    margin: auto;
+    text-align: center;
+    padding: 2rem;
+    color: rgb(255, 98, 0);
+    text-shadow: 3px 2px 2px yellow;
+    font-size: 1.3rem;
+    font-family:   Copperplate, Papyrus, fantasy;
+    
+}
+#container1
+{
+    margin: auto;
+margin-top: 2rem;
+margin-left:5rem;
+color: white;
+
+}
+#loc
+{
+    margin: auto;
+    margin-top: 10rem;
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: ;
+
+}

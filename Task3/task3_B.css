@@ -1,0 +1,51 @@
+#main
+{
+    width: 400px;
+    background: url(moon-stars-bg.png);
+    margin: auto;
+    color: white;
+}
+#head
+{
+    padding-top: 5rem;
+text-align: center;
+}
+#c2
+{
+margin-top: 4rem;
+text-align: center;
+/* margin-bottom: 4rem; */
+}
+
+#c2 p{
+    margin-top: 0.4rem;
+}
+#img
+{
+    background: url(moon-bg.png)no-repeat;
+    background-size: cover;
+    height: 12rem;
+    margin: 1rem;
+    text-align: center;
+    padding-top: 4rem;
+    box-sizing: border-box;
+
+}
+button
+{
+margin-bottom: 2.5rem;
+padding-left: 1rem;
+padding-right: 1rem;
+    /* width: 100px; */
+    height: 25px;
+    margin-left: 35%;
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    background-color:rgb(142, 151, 253);
+}
+#btn
+{
+    margin-bottom: 4rem;
+   
+}
