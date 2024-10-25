@@ -9,3 +9,9 @@
 ### Task2_B Output
 ![Task2_B](https://github.com/user-attachments/assets/10f14147-25a4-4a39-892a-63300dfadfeb)
 <br>     
+### Task3_A Output
+![Task3_A](https://github.com/user-attachments/assets/dfb96060-6dc7-4510-8793-fa9e71540025)
+<br>     
+### Task3_b Output
+![Task3_B](https://github.com/user-attachments/assets/86c18e5c-7196-4137-874a-306fae73c571)
+<br>
