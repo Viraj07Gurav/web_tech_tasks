@@ -12,7 +12,12 @@
 ### Task3_A Output
 ![Task3_A](https://github.com/user-attachments/assets/dfb96060-6dc7-4510-8793-fa9e71540025)
 <br>     
-### Task3_b Output
+### Task3_B Output
 ![Task3_B](https://github.com/user-attachments/assets/86c18e5c-7196-4137-874a-306fae73c571)
 <br>
+### Task4_A Output
+![Task4_A](https://github.com/user-attachments/assets/25e7924f-bb68-4335-a81f-51fde3d01845)
 <br>
+### Task4_B Output
+![Task4_B](https://github.com/user-attachments/assets/50e23167-776d-491d-bd42-1432c7aed6d5)
+
