@@ -20,4 +20,11 @@
 <br>
 ### Task4_B Output
 ![Task4_B](https://github.com/user-attachments/assets/50e23167-776d-491d-bd42-1432c7aed6d5)
+<br>
+### Task5_A Output
 
+![Screenshot_4-11-2024_20375_](https://github.com/user-attachments/assets/187faaec-08ea-40d8-a927-50031016df16)
+<br>
+### Dassehra invitation
+![Screenshot_8-11-2024_235041_](https://github.com/user-attachments/assets/09349715-e9ca-4bba-9e68-e6ec150e1765)
+<br>
