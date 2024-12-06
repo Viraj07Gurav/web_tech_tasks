@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+    <div id="main-container">
+    <header>
+        <nav class="nav">
+            <!-- <div class="menu left-menu">
+                <a id="home" href="home.html">Facts Of Cat</a>
+            </div> -->
+            
+
+        </nav>
+    </header>
+
+
+    <main class="main">
+        <div class="main-content">
+            <div class="cafeName">
+                <p id="lineOne"></p>Facts-</p>
+                <p id="lineTwo">About Cats</p>
+            </div>
+            <div >
+              <p id="facts"></p>  <!-- Sure, you can live without coffee and cats. But why would you? -->
+            </div>
+            <div class="button">
+                <button id="btnBookPlace">Click to Know Facts</button>
+            </div>
+            <!-- <div id="tagline">
+                Sure, you can live without coffee and cats. But why would you?
+            </div> -->
+        </div>
+    </main>
+</div>
+<script>
+    let btn=document.getElementById('btnBookPlace')
+    console.log(btnBookPlace)
+    let facts=document.getElementById('facts');
+    console.log(facts)
+    let currentIndex=0;
+    const URL="https://cat-fact.herokuapp.com/facts"
+    const getFacts=async ()=>{
+        let response=await fetch(URL)
+        console.log(response)
+        let data= await response.json();
+        console.log(data)
+            console.log(data[currentIndex].text);
+            facts.textContent=data[currentIndex].text
+            if (currentIndex === data.length - 1) {
+            currentIndex = 0; // Reset to the first fact
+        } else {
+            currentIndex++; // Move to the next fact
+        }
+    }
+    btn.addEventListener("click",getFacts)
+   
+</script>
+</body>
+</html>
