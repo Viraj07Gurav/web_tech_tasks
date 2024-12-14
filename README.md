@@ -28,3 +28,4 @@
 ### Dassehra invitation
 ![Screenshot_8-11-2024_235041_](https://github.com/user-attachments/assets/09349715-e9ca-4bba-9e68-e6ec150e1765)
 <br>
+### Task6_JavaScript Output
